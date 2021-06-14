@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\sys\\Desktop\\fuel-prediction",
+      "environment": [],
+      "program": "c:\\Users\\sys\\Desktop\\fuel-prediction\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "D:\\2021-06-08 14.42.32 Harshithaa P V's Zoom Meeting 78166003524\\mingw32\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
