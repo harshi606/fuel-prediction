@@ -24,5 +24,6 @@ inputs in the web app:
 **acceleration**:  the time(in seconds) it takes to reach 0-60mph.\
 **model year**:    format(YYYY)\
 **origin**:        select from the dropdown list.\
-the webapp is deployed on heroku and the link to webapp is 
+https://share.streamlit.io/harshi606/fuel-prediction/main/mileageapp.py
 
+click this link to view the web application
