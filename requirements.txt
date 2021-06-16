@@ -3,4 +3,4 @@ numpy>1.9.2
 matplotlib>=1.4.3
 pandas>0.19
 streamlit
-scit-learn==0.22.1
+scikit-learn==0.22.1
