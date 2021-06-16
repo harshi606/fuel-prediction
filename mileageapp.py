@@ -1,5 +1,4 @@
 import streamlit as st
-from sklearn.externals import joblib 
 import pandas as pd
 import webbrowser
 
