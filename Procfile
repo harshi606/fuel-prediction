@@ -1,2 +1,2 @@
   
-web:sh setup.sh && streamlit run mileagapp.p
+web:sh setup.sh && streamlit run mileagapp.py
