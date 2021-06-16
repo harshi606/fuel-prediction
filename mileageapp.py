@@ -4,7 +4,7 @@ import joblib
 import webbrowser
 
 
-model=joblib.load('rf.pkl') 
+model=joblib.load('mileage_model.pkl') 
 st.title(' MILEAGE PREDICTION ')
 
 st.write("Details Required")
