@@ -27,3 +27,9 @@ inputs in the web app:
 https://share.streamlit.io/harshi606/fuel-prediction/main/mileageapp.py
 
 click this link to view the web application
+
+# WHAT IS THERE IN THIS FILES ?
+
+1. mileage_model.pkl - This is the model used for web integration.
+2. untitled.ipynb - This is the trained model code.
+3. mileageapp.py - This file contains the web integration using streamlit.
