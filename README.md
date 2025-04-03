@@ -24,9 +24,7 @@ inputs in the web app:
 **acceleration**:  the time(in seconds) it takes to reach 0-60mph.\
 **model year**:    format(YYYY)\
 **origin**:        select from the dropdown list.\
-https://share.streamlit.io/harshi606/fuel-prediction/main/mileageapp.py
 
-click this link to view the web application
 
 # WHAT IS THERE IN THIS FILES ?
 
